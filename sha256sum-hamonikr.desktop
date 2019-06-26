@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=체크썸 확인
+Exec=sha256sum-hamonikr
+Comment=
+Terminal=false
+Icon=/usr/share/icons/hicolor/scalable/apps/ibus.svg
+Type=Application
