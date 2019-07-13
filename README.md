@@ -11,7 +11,7 @@
 
 > 파일 체크썸 확인 프로그램
 
-### 🏠 [Homepage](https://hamonikr.org)
+### 🏠 [Homepage](https://hamonikr.org/oss/sha256)
 
 ## Install
 
