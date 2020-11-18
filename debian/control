@@ -1,0 +1,13 @@
+Source: hamonikr-checksum
+Section: utils
+Priority: optional
+Maintainer: HamoniKR <pkg@hamonikr.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: hamonikr-checksum
+Architecture: all
+Depends: zenity,
+         ${misc:Depends},
+Description: Compare checksum for ISO or file
+ 다운로드 받은 파일의 무결성을 검증하는 유틸리티.

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Compare checksum
+Name[ko]=체크썸 확인
+Exec=sha256sum-hamonikr
+Comment=Compare checksum
+Comment[ko]=다운로드 파일의 무결성 확인
+Terminal=false
+Icon=ibus
+Type=Application
