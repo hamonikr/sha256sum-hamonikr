@@ -1,3 +1,10 @@
+hamonikr-checksum (1.0.1) jin; urgency=medium
+
+  * Add usr/share/nemo/actions/mint-sha256sum.nemo_action
+   - Fixed context menu when click ISO
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 18 Nov 2020 10:12:11 +0900
+
 hamonikr-checksum (1.0.0) jin; urgency=medium
 
   * Rebuild for HamoniKR 4.0

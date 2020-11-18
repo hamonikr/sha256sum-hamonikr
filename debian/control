@@ -9,5 +9,6 @@ Package: hamonikr-checksum
 Architecture: all
 Depends: zenity,
          ${misc:Depends},
+Replaces: mintsystem         
 Description: Compare checksum for ISO or file
  다운로드 받은 파일의 무결성을 검증하는 유틸리티.
