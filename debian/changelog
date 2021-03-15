@@ -1,3 +1,10 @@
+hamonikr-checksum (1.0.2) jin; urgency=medium
+
+  * Update usr/share/applications/sha256sum-hamonikr.desktop
+   - Add Category as Utility
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 15 Mar 2021 18:03:50 +0900
+
 hamonikr-checksum (1.0.1) jin; urgency=medium
 
   * Add usr/share/nemo/actions/mint-sha256sum.nemo_action
