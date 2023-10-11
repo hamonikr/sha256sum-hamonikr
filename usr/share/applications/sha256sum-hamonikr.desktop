@@ -8,3 +8,4 @@ Terminal=false
 Icon=ibus
 Type=Application
 Categories=Utility; 
+Keywords=checksum;md5sum,체크썸,hash;
